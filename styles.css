@@ -16,6 +16,7 @@ body {
 /* Navigation */
 .nav {
     display: flex;
+    z-index: 1000;
     justify-content: space-between;
     align-items: center;
     padding: 10px 40px;
